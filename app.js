@@ -6,7 +6,7 @@ Ezequiel A. Verón
 
 const datosSimulador = [];
 datosSimulador['nombreApp'] = 'TeLoPresto';
-datosSimulador['sitioWeb'] = 'https://www.telopresto.com/';
+datosSimulador['sitioWeb'] = 'https://ezev-nitsar.github.io/PreEntregaJS2Veron/';
 datosSimulador['desarrollador'] = 'Ezequiel A. Verón';
 
 const mensajesDeError = [];
