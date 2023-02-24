@@ -4,11 +4,13 @@ Proyecto Coderhouse, Entrega 2
 Ezequiel A. Verón
 */
 
+//Array con Datos del Simulador
 const datosSimulador = [];
 datosSimulador['nombreApp'] = 'TeLoPresto';
 datosSimulador['sitioWeb'] = 'https://ezev-nitsar.github.io/PreEntregaJS2Veron/';
 datosSimulador['desarrollador'] = 'Ezequiel A. Verón';
 
+//Array para el manejo de mensajes de error
 const mensajesDeError = [];
 mensajesDeError[100] = "No has ingresado un nombre.\nPor favor, vuelve a intentarlo actualizando la página";
 mensajesDeError[101] = "No podemos otorgarte un préstamo ya que no cumples con el rango de edad necesario";
